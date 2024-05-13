@@ -6,7 +6,7 @@ The package was coded by Associate-Professor Roger Marshall, formerly from the U
 
 Currently, it has been tested on linux (posit cloud) and it works, despite some Fortran warnings.
 
-It has been tested on Apple silicon and the Fortran code throws an error.
+It has been tested on Apple silicon and the FORTRAN code throws an error.
 
 To install, please use the following code:
 
