@@ -4,6 +4,10 @@ This is an `R` package to display categorical data as scaled rectangle diagrams,
 
 The package was coded by Associate-Professor Roger Marshall, formerly from the University of Auckland, who has now retired. His email address is [rogermarshall65\@gmail.com](mailto:rogermarshall65@gmail.com){.email}.
 
+Currently, it has been tested on linux (posit cloud) and it works, despite some Fortran warnings.
+
+It has been tested on Apple silicon and the Fortran code throws an error.
+
 To install, please use the following code:
 
 `if(!require(devtools)) install.packages("devtools")`\
