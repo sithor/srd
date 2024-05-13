@@ -1,0 +1,16 @@
+Package: srd
+Type: Package
+Title: Draws Scaled Rectangle Diagrams
+Version: 1.1
+Date: 2020-01-10
+Authors@R: person("Roger", "Marshall", role = c("aut", "cre"),
+                     email = "rj.marshall@auckland.ac.nz")
+Description: A function to draw scaled rectangle diagrams to represent  categorical data.
+License: GPL-2
+Imports: survival, grDevices, graphics, stats, randomcoloR, utils,
+        minqa
+RoxygenNote: 7.1.1
+NeedsCompilation: yes
+Packaged: 2020-11-20 00:17:14 UTC; rmar073
+Author: Roger Marshall [aut, cre]
+Maintainer: Roger Marshall <rj.marshall@auckland.ac.nz>

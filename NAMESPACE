@@ -1,0 +1,10 @@
+useDynLib("srd",.registration=TRUE, .fixes="srd")
+export(srd, srd.summary, srd.plot)
+import(survival, grDevices, graphics, stats, randomcoloR, utils, minqa) 
+     importFrom("grDevices", "devAskNewPage", "rgb","dev.off","dev.cur")
+     importFrom("graphics", "arrows", "par", "plot.new", "plot.window",
+     "polygon", "segments", "text", "title")
+     importFrom("stats", "complete.cases", "pchisq", "runif")
+
+ 
+ 
